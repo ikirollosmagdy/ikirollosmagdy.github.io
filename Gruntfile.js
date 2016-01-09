@@ -190,9 +190,9 @@ module.exports = function (grunt) {
           // Add vendor prefixed styles
           require('autoprefixer')({
             browsers: [
-             'last 2 versions', 
-             'ie >= 9', 
-             'and_chr >= 2.3'
+              'last 2 versions', 
+              'ie >= 9', 
+              'and_chr >= 2.3'
             ]
           })
         ]
@@ -413,7 +413,7 @@ module.exports = function (grunt) {
     'concurrent:dist',
     'postcss',
     'concat',
-    'cssmin',
+    // 'cssmin',
     'uglify',
     'copy:dist',
     'filerev',
