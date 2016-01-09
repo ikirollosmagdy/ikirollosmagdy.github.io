@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+config.codekit
+node_modules
+.tmp
+bower_components
+=======
 
 config.codekit
+>>>>>>> master
