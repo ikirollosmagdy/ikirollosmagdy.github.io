@@ -1,0 +1,11 @@
+{
+  "name": "kirollosmagdy-github-io",
+  "private": true,
+  "dependencies": {
+    "foundation-sites": "~6.0.5"
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  }
+}
